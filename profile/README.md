@@ -8,6 +8,7 @@ Our main community platforms:
 
 - [Official Discord Server](https://discord.gg/taMRRAHb6y)
 
+<!--
 ## Contributing
 Any contribution to copl.uk is greatly appreciated, whether it's a typo fix, a brand new feature, or a bug report.
 
@@ -16,3 +17,4 @@ If you want to discuss anything, [Official Discord Server](https://discord.gg/ta
 
 - Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing anything
 - To contribute, please read the [Contribution Guidelines](CONTRIBUTING.md)
+-->
