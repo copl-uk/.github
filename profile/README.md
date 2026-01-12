@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/7a3bd4c4-9102-4ac9-8dee-7b6e704d64ef)
+![banner](https://github.com/copl-uk/brand/blob/f2f47090c1305fd309211ab5d007d97b4c076530/copluk_gh_banner.png)
 
 ## Community
 Contribute and get involved in our community.
